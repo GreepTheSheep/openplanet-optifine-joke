@@ -1,0 +1,10 @@
+[meta]
+name = "Optifine"
+author = "Greep"
+category = "Meme"
+siteid = 138
+
+version = "1.0"
+
+[script]
+imports = [ "Icons.as" ]
